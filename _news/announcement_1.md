@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+startDate: 2021-08-01 16:11:00-0400
+date: 2023-05-01 16:11:00-0400
+endDatePres: true
 inline: true
 ---
 
-A simple inline announcement.
+M.S. in Computer Science at NYU's Courant Institute of Mathematical Sciences.

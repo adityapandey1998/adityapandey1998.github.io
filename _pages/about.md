@@ -1,24 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: CS Grad Student @ NYU Courant
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>(646) 327-9327</p>
+    <p>New York City, NY 10028</p>
+    <p><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i>adityapandey@nyu.edu</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there!
+I am Aditya. I am a first-year Master's Student at New York University's Courant Institute of Mathematical Sciences currently studying Computer Science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Teaching Assistant at NYU, handling the Algorithms course under Prof. Dodis and Prof. Regev. Previously, I have worked at Walmart as a Software Engineer in the Data & Analytics field. I have also interned at PwC and Walmart where I gained diverse experiences in Data Analytics and Backend Development.
+My main areas of interest lie in Machine Learning and Big Data.
+In the past, I have worked as a Research Assistant under Dr. Snehanshu Saha (currently at BITS Goa) in theoretical Machine Learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated with a Bachelor's in Technology from PES Univerity in 2020 and was awarded the CNR Rao Merit Scholarship for my performances there.
+
+In terms of hobbies, I am a big sports fan - especially Football (Soccer) and Cricket. I enjoy analyzing matches and love reading about the application of big data analytics in Sports. I also enjoy traveling to different places and watching movies in the thriller genre.
