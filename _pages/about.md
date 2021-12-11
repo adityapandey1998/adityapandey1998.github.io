@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: CS Grad Student @ NYU Courant
+description: Computer Science Grad Student @ NYU Courant
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   address: >
     <p>(646) 327-9327</p>
     <p>New York City, NY 10028</p>
-    <p><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i>adityapandey@nyu.edu</a></p>
+    <p><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i> adityapandey@nyu.edu</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
