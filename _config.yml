@@ -67,10 +67,10 @@ stackoverflow_id: #your stackoverflow id
 # rss_icon: true
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach me at my Email anytime!
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+# google_analytics: UA-XXXXXXXXX # out your google-analytics code
+# panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -180,8 +180,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Pandey
+  first_name: [A.]
 
   style: apa
   locale: en
