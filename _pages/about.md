@@ -10,7 +10,7 @@ profile:
   address: >
     <p>(646) 327-9327</p>
     <p>New York City, NY 10028</p>
-    <p><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i> adityapandey@nyu.edu</a></p>
+    <p><a href="mailto:adityapandey@nyu.edu" title="email"><i class="fas fa-envelope"></i> Email Me</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
