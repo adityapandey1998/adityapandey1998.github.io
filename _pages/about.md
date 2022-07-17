@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hey there!
-I am Aditya. I am a first-year Master's Student at New York University's Courant Institute of Mathematical Sciences currently studying Computer Science.
+I am Aditya. I am a Master's Student at New York University's Courant Institute of Mathematical Sciences currently studying Computer Science.
 
-I am currently a Teaching Assistant at NYU, handling the Algorithms course under Prof. Dodis and Prof. Regev. Previously, I have worked at Walmart as a Software Engineer in the Data & Analytics field. I have also interned at PwC and Walmart where I gained diverse experiences in Data Analytics and Backend Development.
+I am currently a Graduate Teaching Assistant at NYU, handling the Cloud and ML course under Prof. Chung and the Algorithms course under Prof. Cole. This past summer, I was an intern at LiveRamp working on projects related to Big Data and Distributed Systems. Previously, I have worked at Walmart as a Software Engineer in the Data & Analytics field and been a TA for various other courses at NYU. I have also interned at PwC and Walmart where I gained diverse experiences in Data Analytics and Backend Development.
 My main areas of interest lie in Machine Learning and Big Data.
 In the past, I have worked as a Research Assistant under Dr. Snehanshu Saha (currently at BITS Goa) in theoretical Machine Learning.
 
