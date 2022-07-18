@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: These are the courses/topics I have tought.
 nav: true
+nav_order: 4
 ---
 
 <h2 class="year">Cloud and Machine Learning</h2>

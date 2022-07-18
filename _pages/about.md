@@ -1,29 +1,25 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-description: Computer Science Grad Student @ NYU Courant
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
+  image_cicular: false # crops the image to make it circular
   address: >
-    <p>(646) 327-9327</p>
-    <p>New York City, NY 10028</p>
-    <p><a href="mailto:adityapandey@nyu.edu" title="email"><i class="fas fa-envelope"></i> Email Me</a></p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there!
-I am Aditya. I am a Master's Student at New York University's Courant Institute of Mathematical Sciences currently studying Computer Science.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I am currently a Graduate Teaching Assistant at NYU, handling the Cloud and ML course under Prof. Chung and the Algorithms course under Prof. Cole. This past summer, I was an intern at LiveRamp working on projects related to Big Data and Distributed Systems. Previously, I have worked at Walmart as a Software Engineer in the Data & Analytics field and been a TA for various other courses at NYU. I have also interned at PwC and Walmart where I gained diverse experiences in Data Analytics and Backend Development.
-My main areas of interest lie in Machine Learning and Big Data.
-In the past, I have worked as a Research Assistant under Dr. Snehanshu Saha (currently at BITS Goa) in theoretical Machine Learning.
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I graduated with a Bachelor's in Technology from PES Univerity in 2020 and was awarded the CNR Rao Merit Scholarship for my performances there.
-
-In terms of hobbies, I am a big sports fan - especially Football (Soccer) and Cricket. I enjoy analyzing matches and love reading about the application of big data analytics in Sports. I also enjoy traveling to different places and watching movies in the thriller genre.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
