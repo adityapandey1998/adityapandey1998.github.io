@@ -3,7 +3,7 @@ layout: post
 title: Comparative Study on the Deployment of ML Models using Kubeflow
 description: 
 img:
-importance: 4
+importance: 1
 category: CS
 ---
 

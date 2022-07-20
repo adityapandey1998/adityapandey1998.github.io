@@ -3,7 +3,7 @@ layout: post
 title: Predicting Customer Churn
 description: 
 img: 
-importance: 1
+importance: 5
 category: CS
 ---
 

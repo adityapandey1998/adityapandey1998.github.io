@@ -6,4 +6,4 @@ endDatePres: true
 inline: true
 ---
 
-Data Analytics Intern at PricewatherhouseCoppers.
+Summer Analyst at PricewatherhouseCoppers.

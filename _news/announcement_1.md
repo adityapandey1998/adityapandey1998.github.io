@@ -6,4 +6,6 @@ endDatePres: true
 inline: true
 ---
 
-M.S. in Computer Science at NYU's Courant Institute of Mathematical Sciences.
+M.S. in Computer Science 
+<br>
+NYU's Courant Institute of Mathematical Sciences.

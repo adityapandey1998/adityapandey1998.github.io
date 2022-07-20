@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: Resume
 permalink: /cv/
-title: cv
-nav: true
+title: Resume
+nav: false
 nav_order: 3
-cv_pdf: example_pdf.pdf
+cv_pdf: Aditya_Pandey_Resume.pdf
 ---

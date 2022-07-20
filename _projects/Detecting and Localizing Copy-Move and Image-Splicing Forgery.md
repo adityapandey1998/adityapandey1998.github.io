@@ -3,7 +3,7 @@ layout: post
 title: Detecting and Localizing Copy-Move and Image-Splicing Forgery
 description: 
 img: 
-importance: 3
+importance: 2
 category: CS
 ---
 

@@ -7,4 +7,5 @@ inline: true
 ---
 
 Graduated from PES University, Bangalore.
+<br>
 Bachelor's in Computer Science with a GPA of 9.8/10.0 and a specialization in Data Science.
